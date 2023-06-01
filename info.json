@@ -1,0 +1,13 @@
+{
+  "name": "SpeedBoostCapsule",
+  "version": "0.0.4",
+  "title": "This provides a consumable capsule that increases player speed by 40% for 1 minute. (warning: addictve)",
+  "author": "hy_speed",
+  "contact": "hyspeed_games@yahoo.com",
+  "homepage": "https://github.com/hyspeed/SpeedBoostCapsule",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1"
+  ],
+  "license": "GNU GPLv3"
+}
