@@ -1,0 +1,22 @@
+{
+  "factorio.versions": [
+    {
+      "name": "Factorio Dev",
+      "factorioPath": "t:\\AsRamdiskRamdisk\\TO1D960X\\Factorio\\bin\\x64\\factorio-dev.exe",
+      "active": true
+    }
+  ],
+  "Lua.workspace.library": [
+    "\"c:/Users/Jon/AppData/Roaming/Code/User/workspaceStorage/ebe0c4f7db0c0334754ed69908077747/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/library\"",
+    "t:\\AsRamdiskRamdisk\\TO1D960X\\Factorio\\data",
+    "c:/Users/Jon/AppData/Roaming/Code/User/workspaceStorage/2da83f158269d65f6bb7707c72d72b0d/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/library"
+  ],
+  "Lua.workspace.userThirdParty": [
+    "c:\\Users\\Jon\\AppData\\Roaming\\Code\\User\\workspaceStorage\\2da83f158269d65f6bb7707c72d72b0d\\justarandomgeek.factoriomod-debug\\sumneko-3rd"
+  ],
+  "Lua.runtime.version": "Lua 5.2",
+  "Lua.diagnostics.globals": [
+    "__Profiler"
+  ],
+  "Lua.runtime.plugin": "c:/Users/Jon/AppData/Roaming/Code/User/workspaceStorage/2da83f158269d65f6bb7707c72d72b0d/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/plugin.lua"
+}
